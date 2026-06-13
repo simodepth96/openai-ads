@@ -123,7 +123,7 @@ def main():
     col1, col2 = st.columns(2)
     with col1:
         api_key = st.text_input("API key (or leave blank to use PEEC_API_KEY)")
-        project_id = st.text_input("Project ID", value="or_1a89d9ec-2307-4265-9669-4e994aba70ca")
+        project_id = st.text_input("Paste your Project ID")
     with col2:
         start_date = st.date_input("Start date")
         end_date = st.date_input("End date")
