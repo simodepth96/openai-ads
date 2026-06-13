@@ -1,4 +1,4 @@
-#Peec.ai Ads Analyzer
+# Peec.ai Ads Analyzer
 
 Streamlit app for extracting and visualising ads from Peec.ai chats.
 
